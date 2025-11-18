@@ -23,5 +23,5 @@ Talk to me about:
 - 🔔 Subscribe:- [PABLO](https://www.youtube.com/@creativityforyou7347).
 - ⚡ Fun fact: Internet users blink less than usual.
 
-![Khaled PABLO github stats]
+[Khaled PABLO github]!
 
