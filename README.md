@@ -20,7 +20,7 @@ Talk to me about:
 ## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
 - 🎯 Portfolio site: [Portfolio].
-- 🔔 Subscribe:- [Harsh Kumar Khatri](https://www.youtube.com/@creativityforyou7347).
+- 🔔 Subscribe:- [PABLO](https://www.youtube.com/@creativityforyou7347).
 - ⚡ Fun fact: Internet users blink less than usual.
 
 ![Khaled PABLO github stats]
