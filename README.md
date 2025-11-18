@@ -6,16 +6,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@Harshkhatri24-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Harshkhatri24)](https://twitter.com/Harshkhatri24) [![Linkedin Badge](https://img.shields.io/badge/-harshkumarkhatri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/harshkumarkhatri/) [![Medium Badge](https://img.shields.io/badge/-@mailharshkhatri-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mailharshkhatri/)](https://medium.com/harsh-kumar-khatri)
 [![Gmail Badge](https://img.shields.io/badge/-mailharshkhatri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:mailharshkhatri@gmail.com)
 
-I am Harsh Kumar Khatri 😃. I am from Kota, Rajasthan and currently doing my B.Tech from Career Point University, Alniya 🏫. I love to explore and learn about new things.
-## 👯 Communities
-* DSC Lead.
-* Mentor at HackItShipIt(MLH), Hack for the people, HackinCodes.
-* Microsoft Student Learn Ambassador (MSP/MLSA).
-* Deeplearning.ai event ambassador.
-* Management Team Lead at Voice Of Code.
-* CSE Club at CPU.
-* CamPus Ambassador at Coding Ninja and Humanity Welfare Council.
-* Internshala Student Partner-16.
+I am Khaled๛Pabloツ 😃. I am from Egypt. I love to explore and learn about new things.
 ## ⚡ Technologies
 Talk to me about:
 - Front-end development using **HTML, Javascript, CSS, Bootstrap**.
