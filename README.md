@@ -24,4 +24,4 @@ Talk to me about:
 - ⚡ Fun fact: Internet users blink less than usual.
 
 ![Khaled PABLO github stats]
-username=Khaled PABLO&hide=["issues"]&show_icons=true)
+
